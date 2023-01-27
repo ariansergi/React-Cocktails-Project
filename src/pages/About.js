@@ -17,7 +17,7 @@ const About = () => {
           >
             cocktail API
           </a>{' '}
-          . I also used a library named React route version 6 to build this
+          . I also used a library named React router version 6 to build this
           page. For more info you can reach me in my{' '}
           <a
             target={'_blank'}
